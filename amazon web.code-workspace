@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../../Documents/amazon_clone_img/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "assets"
+	}
+}
